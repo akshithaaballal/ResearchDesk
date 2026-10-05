@@ -1,0 +1,124 @@
+Title: Live Content
+
+Description: Fetched live
+
+Source: https://cosmitude.gitbook.io/cosmitude-docs
+
+---
+
+
+Welcome to Bridge | Cosmitude Docs
+Cosmitude Docs
+⌘
+Ctrl
+k
+Visit Cosmitude Bridge
+Email Us
+Whatsapp Support
+More
+Cosmitude Docs
+Welcome to Bridge
+Getting Started
+Quick Start Guide
+Your First Project
+User Guide
+Overview
+Understanding Projects
+What is a Template?
+What is a Forum?
+What is a Flow?
+What are Agents?
+Understanding Agent Code and Development
+Generating Agent Code
+What are Bridges
+Sending Bridges
+Generating Reports
+What are Whispers? 
+Admin Guide
+Overview
+Administrator Types
+Manual Template Creation
+Creating Forums
+Forum Administration
+Updating Forum Template
+Public, Private and Protected Forums
+User Management
+Local Server Login
+Managing agents
+Update Bridge Feature — Usage & Permission Rules
+Test Mode
+Developer Resources
+Overview
+API Overview
+Error Codes & Debugging
+Integration Examples
+Advanced
+Multi-Agent Forum
+Multi-Format Flows
+Cosmitude MCP Orchestration
+Plans and pricing
+Overview
+Checking account usage statistics
+Plan top-ups
+Support
+FAQ & Troubleshooting
+Help Center
+Powered by GitBook
+ 
+On this page
+For the complete documentation index, see 
+llms.txt
+. This page is also available as 
+Markdown
+.
+ChatGPT
+On this page
+Welcome to Bridge
+Complete guide to using Cosmitude Bridge.
+Bridge is a data integration tool that enables users to set up and deploy full-fledged solutions in minimal time and minimal code.
+Transform your workflows, build and deploy agents for repetitive tasks and seamlessly integrate data across multiple platforms (human and agent alike) without having to write endless lines of plumbing code.
+Manage users/admins, send data through bridges and generate reports of your data, all through the Bridge One-View Dashboard!
+What you'll learn
+Get started quickly
+ - Set up your first Project in under a minute!
+Generate templates and forums
+ - Setup tools and structures for your data
+Automate workflows
+ - Use Agents to streamline repetitive tasks
+Extend functionality
+ - Add custom operations, integrate APIs, download and modify agent-code
+Quick Navigation
+New to Bridge?
+ Start with our 
+Quick Start Guide
+ to get up and running instantly.
+For Administrators
+Creating Forums
+Managing Forum Permissions
+Adding Users and Admins
+Creating Custom Templates
+For Developers
+API Documentation
+BuildingAgents
+Integration Examples
+For troubleshooting, head on to -
+Troubleshooting login issues
+💡 
+Tip
+: Use the search function (Ctrl/Cmd + K) to quickly find what you need.
+💡 
+Tip
+: For a quick summary, head over to the bottom of any page to the 'Essential Points' section.
+Need help? Visit our 
+Support page
+ or contact us directly.
+Next
+Quick Start Guide
+Last updated 
+9 months ago
+What you'll learn
+Quick Navigation
+For Administrators
+For Developers
+For troubleshooting, head on to -
+

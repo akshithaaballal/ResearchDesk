@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+node_modules/
+dist/
+
+*.zip
+
+backend/bridge_agent_backup.py
+backend/bridge_agent_original.py

@@ -1,0 +1,70 @@
+:root {
+  --bg: #ffffff;
+  --sidebar: #f9f9f9;
+  --surface: #f4f4f4;
+  --hover: #ececec;
+  --border: #e5e5e5;
+  --text: #0d0d0d;
+  --muted: #6b6b6b;
+  --primary: #0d0d0d;
+  --on-primary: #ffffff;
+  --danger: #c62828;
+  --sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--text);
+  background: var(--bg);
+  color-scheme: light dark;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #212121;
+    --sidebar: #171717;
+    --surface: #2f2f2f;
+    --hover: #2a2a2a;
+    --border: #363636;
+    --text: #ececec;
+    --muted: #9b9b9b;
+    --primary: #ececec;
+    --on-primary: #171717;
+    --danger: #ef6b6b;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+button,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid var(--muted);
+  outline-offset: 2px;
+}
